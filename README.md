@@ -39,7 +39,7 @@ To run this project, you'll need:
 ### Installing
 
 Clone the repository:
-```bash
+
 git clone https://github.com/username/people-you-may-know.git
 cd people-you-may-know
 
@@ -47,7 +47,7 @@ cd people-you-may-know
 
 If you have the project in a single file, run it by compiling and executing the Java file:
 
-```bash
+
 javac PeopleYouMayKnow.java
 java PeopleYouMayKnow
 ## Algorithm Details
