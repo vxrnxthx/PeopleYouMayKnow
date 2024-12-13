@@ -1,4 +1,3 @@
-# PeopleYouMayKnow
 # People You May Know
 
 ## Table of Contents
